@@ -7,6 +7,8 @@ title: "Danial’s Stick Insect World"
 
 ---
 
+[goto sony](https://www.sony.com)
+
 Hi! My name is **Danial** 👋  
 I’m an elementary school student and I love animals, nature, and science.
 
