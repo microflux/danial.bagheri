@@ -2,7 +2,7 @@
 title: "Danial’s Stick Insect World"
 ---
 
-# 🌿 Danial’s Stick Insect World 🦗
+# 🌿 mark down Danial’s Stick Insect World 🦗
 *An elementary school science adventure*
 
 ---
